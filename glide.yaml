@@ -1,0 +1,3 @@
+package: github.com/RobbieMcKinstry/StandardNormal
+import:
+- package: github.com/gonum/plot
